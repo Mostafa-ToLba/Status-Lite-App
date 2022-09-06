@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "121481358712",
+    "project_id": "statuseslite-b1239",
+    "storage_bucket": "statuseslite-b1239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121481358712:android:1be73211820d51f4b62c8d",
+        "android_client_info": {
+          "package_name": "com.example.statuses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121481358712-fouppv4k151cdm02ag3knj4da5hhs1lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.statuses",
+            "certificate_hash": "46e6321d0575ddd32827492cd21a0116d6d08560"
+          }
+        },
+        {
+          "client_id": "121481358712-ulgb568ftdup7oi40ai8ct0fajkeag43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xFBeCK20nUHeAejayzJTTPottU2K1ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121481358712-ulgb568ftdup7oi40ai8ct0fajkeag43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

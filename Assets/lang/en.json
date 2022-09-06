@@ -1,0 +1,36 @@
+
+{
+  "AppName": "Status Lite",
+
+  "tabBar1": "Images",
+  "tabBar2": "Videos",
+  "tabBar3": "Quotes",
+
+  "likeButton": "Like",
+  "shareButton": "Share",
+  "downloadButton": "Download",
+
+  "DarkModeButton": "Dark Mode",
+  "ShareAppButton": "Share App",
+  "ContactUsButton": "Contact Us",
+  "RateUsButton": "Rate Us",
+  "ApplicationInformation": "Application Information",
+  "AppVersion": "App Version",
+  "VerisonNumber": "1.0.0",
+  "PrivacyPolicy": "Privacy Policy",
+  "clickPrivacyPolicy": "click to go to privacy policy",
+
+  "Messages": "Messages",
+
+  "Wait": "Wait!",
+  "noFavorites": "You have no favorites yet!",
+
+  "Favorites": "Favorites",
+
+  "Language": "Language",
+
+  "Download": "downloaded successfully To gallery",
+  "Error": "error on downloading video",
+  "repaitDownload" : "please wait previous download is not finished",
+  "Copy": "copied to clipboard"
+}

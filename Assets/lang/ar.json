@@ -1,0 +1,36 @@
+
+{
+  "AppName": "حالة لايت",
+
+  "tabBar1": "صور",
+  "tabBar2": "فيديوهات",
+  "tabBar3": "اقتباسات",
+
+  "likeButton": "اعجاب",
+  "shareButton": "مشاركه",
+  "downloadButton": "تحميل",
+
+  "DarkModeButton": "الوضع الليلي",
+  "ShareAppButton": "مشاركه التطبيق",
+  "ContactUsButton": "اتصل بنا",
+  "RateUsButton": "قيمنا",
+  "ApplicationInformation": "معلومات التطبيق",
+  "AppVersion": "نسخه التطبيق",
+  "VerisonNumber": "١،٠،٠",
+  "PrivacyPolicy": "سياسه الخصوصيه",
+  "clickPrivacyPolicy": "انقر للذهاب إلى سياسة الخصوصية",
+
+  "Messages": "رسائل",
+
+  "Wait": "انتظر!",
+  "noFavorites": "ليس لديك مفضله حتي الان!",
+
+  "Favorites": "المفضلة",
+
+  "Language": "اللغة",
+
+  "Download": "تم التحميل بنجاح",
+  "Error": "حدث خطا اثناء التحميل",
+  "repaitDownload" : "الرجاء الانتظار التحميل السابق لم ينته",
+  "Copy": "تم النسخ"
+}
